@@ -21,15 +21,6 @@
 
 ## HackerRank Certificates
 
-<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
-    <img src="Badges/python_basic_skill.png" alt="Python (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/Java%20(Basic)%20Certificate.png">
-    <img src="Badges/java_basic_skill.png" alt="Java (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/JavaScript%20(Basic)%20Certificate.png">
-    <img src="Badges/javascript_basic_skill.png" alt="JavaScript (Basic) Certificate"/>
-</a>
 <a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
     <img src="Badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
 </a>
