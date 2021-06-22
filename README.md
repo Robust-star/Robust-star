@@ -20,12 +20,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robust-star&show_icons=true&locale=en" alt="robust-star" /></p>
 
 ## HackerRank Certificates
+<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
+    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
+</a>
 
 <a href="Skills%20Certification/React%20(Basic)%20Certificate.png">
     <img src="Badges/react_basic_skill.png" alt="React (Basic) Certificate"/>
-</a>
-<a href="Skills%20Certification/Problem%20Solving%20(Basic)%20Certificate.png">
-    <img src="Badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate"/>
 </a>
 
 
