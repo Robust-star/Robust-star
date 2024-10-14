@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Gupta</h1>
-<h3 align="center">I'm a Programming enthusiast and Web developer having affinity towards Software development. Currently, I am pursuing B.Tech in Computer Science from Medi-Caps University.</h3>
+<h3 align="center">I'm a Programming enthusiast and Web developer having affinity towards Software development. I Completed B.Tech in Computer Science from Medi-Caps University, Currently I am working as a Software Engineer at Cisco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robust-star&label=Profile%20views&color=0e75b6&style=flat" alt="robust-star" /> </p>
 
